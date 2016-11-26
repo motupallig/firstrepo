@@ -7,5 +7,5 @@ exit0
 else
 echo "a is not equal to 5"
 exit1
-fi
+
 
