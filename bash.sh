@@ -1,5 +1,4 @@
 #!/bin/bash
-
 a=6
 if [ $a -eq 6 ]
 then
